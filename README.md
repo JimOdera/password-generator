@@ -1,5 +1,5 @@
-Password Generator
-A simple and responsive password generator built with HTML, CSS, and JavaScript. This application allows users to generate secure passwords based on selected criteria such as the inclusion of uppercase letters, lowercase letters, numbers, symbols, and length of the password.
+## Password Generator
+# A simple and responsive password generator built with HTML, CSS, and JavaScript. This application allows users to generate secure passwords based on selected criteria such as the inclusion of uppercase letters, lowercase letters, numbers, symbols, and length of the password.
 
 
 Features
