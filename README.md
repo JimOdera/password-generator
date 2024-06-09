@@ -1,19 +1,19 @@
 ## Password Generator
-# A simple and responsive password generator built with HTML, CSS, and JavaScript. This application allows users to generate secure passwords based on selected criteria such as the inclusion of uppercase letters, lowercase letters, numbers, symbols, and length of the password.
+A simple and responsive password generator built with HTML, CSS, and JavaScript. This application allows users to generate secure passwords based on selected criteria such as the inclusion of uppercase letters, lowercase letters, numbers, symbols, and length of the password.
 
 
-Features
-Generate random passwords with specified criteria:
-Include uppercase letters (A-Z)
-Include lowercase letters (a-z)
-Include numbers (0-9)
-Include symbols (!@#$%^&*)
-Choose between 12 or 16 characters in length
-Responsive design suitable for various screen sizes
-Glass effect for the password display input
-Getting Started
-Prerequisites
-To run this project, you only need a web browser.
+## Features
+-- Generate random passwords with specified criteria:
+- Include uppercase letters (A-Z)
+- Include lowercase letters (a-z)
+- Include numbers (0-9)
+- Include symbols (!@#$%^&*)
+- Choose between 12 or 16 characters in length
+-  design suitable for various screen sizes
+- Glass effect for the password display input
+- Getting Started
+- Prerequisites
+- To run this project, you only need a web browser.
 
 Installation
 Clone the repository:
